@@ -1,4 +1,4 @@
-# Laravel Tips
+# Coding Tips
 
 ## Databases
 ### Queries that take a long time
